@@ -1,2 +1,2 @@
-# YDM-Data
-All data used by the YGO Dueling Modification for Minecraft.
+# YDM-DataES
+Todos los datos utilizados por la modificación de duelo de YGO para Minecraft.
